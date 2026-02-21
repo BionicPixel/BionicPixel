@@ -78,14 +78,6 @@ I'm a Full Stack Developer with hands-on experience building production applicat
 
 ---
 
-## 📈 GitHub Stats
-
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=BionicPixel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BionicPixel&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-surati/)
